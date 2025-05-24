@@ -25,4 +25,23 @@ Goal: Understand the syntax.
 - Basic calculator
 - Unit converter
 
+## 🟢 Basic 2 – Control Flow and Functions
+
+Goal: Implement decision-making and modular code structures.
+
+### Topics
+
+- Conditionals: `if`, `else`, `switch`
+- Loops: `for`, `while`, `do while`
+- Function definition and calls
+
+### Modules
+
+- `ctype.h`
+- `time.h`
+
+### Projects
+
+- Number guessing game
+- Menu-driven calculator
 
